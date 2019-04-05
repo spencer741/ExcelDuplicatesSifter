@@ -1,0 +1,103 @@
+Adobe Acrobat DC
+Adobe Acrobat Reader DC
+
+Adobe AIR
+Adobe Acrobat X Pro
+Adobe CS6 Design and Web Premium
+Adobe Flash Player 31
+Adobe Flash Player 32
+Adober Flash Player 31 NPAPI
+Adobe Help manager
+Adobe Flash Player 32 ActiveX
+Adobe Shockwave Player 12.3
+Adobe Widget Browser
+Adobe SHovkwave Player 12.3
+Adobe Content Viewer
+Adobe Widget Brower
+Audacity
+Audio Codes BToE
+AudioCodes BToE
+AduioCodes BToE
+Avigilon Control Center Client
+Bonjour
+Comtasia Studio 7
+Camtasia Studio 8
+Citrix Receiver 4.12
+Camtasia Studio 7
+DegreeWorks
+camtasia Studio 8
+Evisions Application Launcher
+Citirx Receiver 4.12
+FileZilla Client 3.39.0
+DegreeWorks 4.1.1
+Freedom Scientific Error Reporting
+Freedom Scientific FSReader 3.0
+Evision Application Launcher
+Freedom Scientific JAWS 15.0
+Filezilla Client 3.39.0
+Freedom Scientific JAWS Training Table of Content
+Freedom Scientific Ocr
+Google Chrome
+Freedom Scientific OmniPage
+iCloud
+Freedom Scientific USB Camera Drive
+iTunes
+Freedom Scientific Video Intercept
+Freedom Scientific Talking Installer 15.0
+Java 8
+Freedom Scientific ZtVoiceEnable ZrWaveWriter
+Kaseya Agent
+Freedom Scientific ZtVoiceEnable Zt
+LAME v3.99.3 (for Windows)
+IBM ViaVoice TTS Runtime c6.610
+IBM ViaVoice TTS Runtime v6.610 - UK English
+Microsoft .NET Framework 4.5
+Microsoft Expression Design 4
+IBM ViaVoice TTS Runtime v6.610 - US English
+Microsoft Expression Encoder 4
+Java 7 & 8
+Microsoft Expression Encoder 4 Screen Capture Codec
+Microsoft Expression Web 4
+Kurzweil 3000 v1.4
+Kurzweil 3000 v.14
+Microsoft Office Professional Plus 2013
+LAME v3.99.3
+Microsoft Power BI Desktop
+MathPlayer
+Microsoft Silverlight
+Microsoft .NET Framework 4.5.1
+Microsoft Visual C++ (2005, 2008, 2010, 2013)
+Microsoft Visual Studio 2010 Tools for Office Runtime
+Mozilla Firefox
+NaturalReaderFree
+QuickTime 7
+RealPlayer
+Microsfot Power BI Desktop
+Respondus 4.0 Campus-Wide
+Safari
+Sentinel System Driver Installer 7.5.0
+Skype
+Mozilla Firefox 65.0.2
+Snagit 12
+SoftChalk Create 8
+Respondus Equation Editor 4
+Sophos
+Spirion
+TurningKey
+TurningPoint 2008
+SecondLifeViewer
+ZoomText 2019
+Sentinel System Driver Installer
+Scribe
+Skype 7.3
+Sophos Endpoint Agent
+Vocalizer Expressive 2.2
+CCleaner
+Transit
+TurningPont 2008
+ZoomText10
+ZoomText 10
+ZoomText 10.0 Speech Engine (Kate)
+ZoomText 10.0 Speech Engine (Paul)
+ZoomText Videos
+ZoomText Keyboard
