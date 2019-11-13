@@ -1,5 +1,5 @@
 # ExcelDuplicatesSifter
-2-hour project for MIKE Z!
+Extremely buggy. Done in a couple of hours.
 
 Installer (msi) from latest build in this proj.
 ExcelDuplicatesSifter/ExcelSetup/ExcelSetup/Debug/
