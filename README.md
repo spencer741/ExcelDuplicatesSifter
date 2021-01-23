@@ -1,5 +1,5 @@
 # ExcelDuplicatesSifter
-Extremely buggy. Done in a couple of hours.
+Extremely buggy. Done in a couple of hours. Not maintained.
 
 Installer (msi) from latest build in this proj.
 ExcelDuplicatesSifter/ExcelSetup/ExcelSetup/Debug/
